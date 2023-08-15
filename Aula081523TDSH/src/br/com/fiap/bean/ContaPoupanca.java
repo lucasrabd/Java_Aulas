@@ -28,7 +28,7 @@ public class ContaPoupanca implements ContaBancaria {
 	}
 	/**
 	 * Método sacar que permite sacar o valor informado.
-	 * Valor a ser sacado não pode ser superior ao valor do saldo atutal.
+	 * Valor a ser sacado não pode ser superior ao valor do saldo atual.
 	 * @lucasrabd
 	 * @param valor - valor indicado a ser sacado.
 	 * @return float - valor do saldo (atualizado)
